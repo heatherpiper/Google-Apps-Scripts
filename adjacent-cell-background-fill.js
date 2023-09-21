@@ -1,4 +1,4 @@
-// This script will copy the hex string values in a given column and then change the background fill of the adjacent cell to match that value.
+// This script will copy the hex string values in a given column and then change the background fill of the adjacent cell to match that value. Replace or modify the cell range and column number to suit your needs.
 
 function onEdit() {
   var sheet = SpreadsheetApp.getActiveSpreadsheet().getActiveSheet();
